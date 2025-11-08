@@ -7,4 +7,8 @@ void convert(int year) {
 
 void convert(const char era[], int year) {
     // TODO: 実装
+    //sdfsdfsdfsedf
+    //dsfsdaf
+    //dsf
+    //sdfsfa
 }
