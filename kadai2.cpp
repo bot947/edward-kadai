@@ -1,7 +1,6 @@
 #include "kadai2.h"
 
 double bmi(double height_m, double weight) {
-    // TODO: 実装
-    //あどでする
+    height_m = height_m * weight;
     return 0.0;
 }
